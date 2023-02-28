@@ -85,21 +85,18 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
         <td>
             <h4>Codedamn.com</h4>
             <pre>- Fullstack Developer 
-- Trainee 
 - Remote, India 
 - November 2022 - (Present)</pre>
         </td>
         <td>
             <h4>Tata Consultancy Services</h4>
             <pre>- Software Engineer
-- Full time
 - Bangalore, India
 - July, 2021 - November 2022</pre>
         </td>
         <td>
             <h4>Divam Tech</h4>
             <pre>- Frontend Developer 
-- Intern
 - Bangalore, India
 - May, 2021 - June 2021</pre>
         </td>
@@ -132,7 +129,7 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
 <table>
     <tr>
         <td>
-            <img src="assets/images/School.png" width="80">
+            <img src="assets/images/School.png" width="60">
         </td>
         <td>
             <h4>Rajasthan Technical University</h4>
