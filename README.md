@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/BCE9171C-348F-4417-883A-92DB96E82592.jpeg">
+    <img width="200" src="https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/15FFA008-1E64-4999-8C38-78610210535E.jpeg">
 </p>
 
 <h2> 
@@ -17,14 +17,13 @@
 ![living](https://img.shields.io/badge/living-India-C3E0DD)
 
   
-  
 
 
 <p align="left">I'm a curious programmer, and a developer from India who's trying to get a bit better every day. I'm very curious about new technologies. Though I'm in my early software engineering career, I consider myself a self-taught programmer, constantly learning and always looking for improving my skills.</p>
 
 <p>I enjoy creating websites, applications, or anything in between. I've 3 years of experience in IT industry and completed some projects in recent years.</p>
 
-<br>
+
 
 
 
@@ -42,7 +41,7 @@
     <a href="https://codedamn.com/user/himanshu2922t" target="blank"><img align="center" src="assets/images/codedamn logo.png" alt="himanshu2922t" width="40" /></a>
 </p>
 
-<br>
+
 
 
 
@@ -73,14 +72,84 @@ C|C++|Javascript|Python|Java|Scala
 |--|--|--|--|--|--|--|
 npm|git|linux|VS Code|Vim|figma|illustrator|
 
-<br>
+
 
 
 
 ## Work & Education <img src="assets/images/Comet.png" width="30">
 
+<table align="center">
+    <tr>
+        <td><img src ="assets/images/Man Technologist Light Skin Tone.png" width="80" ></td>
+        <td>
+            <h4>Codedamn.com</h4>
+            <pre>- Fullstack Developer Trainee 
+- Remote, India 
+- November 2022 - (Present)</pre>
+        </td>
+        <td>
+            <h4>Tata Consultancy Services</h4>
+            <pre>- Software Engineer
+- Bangalore, India
+- July, 2021 - November 2022</pre>
+        </td>
+        <td>
+            <h4>Divam Tech</h4>
+            <pre>- Frontend Developer (Intern)
+- Bangalore, India
+- May, 2021 - June 2021</pre>
+        </td>
+    </tr>
+</table>
 
-<br>
+<table align="center">
+    <tr>
+        <td>
+            <img src="assets/images/School.png" width="80">
+        </td>
+        <td>
+            <h4>Rajasthan Technical University</h4>
+            <pre>- B.Tech in Computer Science and Engineering
+- Jaipur, India
+- June, 2017 - July 2021
+- CGPA : 8.4 / 10</pre>
+        </td>
+</table>
+
+<table align="center">
+    <tr>
+        <td>
+            <img src="assets/images/Bar Chart.png" width="80">
+        </td>
+        <td>
+            <h4>Forsk Technologies</h4>
+            <pre>- Data Science Intern 
+- Jaipur, India
+- August 15, 2021 – May 22, 2022</pre>
+        </td>
+        <td>
+            <img src="assets/images/Writing Hand Light Skin Tone.png" width="80">
+        </td>
+        <td>
+            <h4>Freelancing</h4>
+            <pre>- Graphics Designer
+- Remote, India
+- August, 2017 – November, 2020</pre>
+        </td>
+    </tr>
+</table>
+  
+
+  
+- <img src="assets/images/Bar Chart.png" width="25"> **Forsk Technologies**:
+  - Data Science Intern 
+  - Jaipur, India
+  - August 15, 2021 – May 22, 2022
+- <img src="assets/images/Writing Hand Light Skin Tone.png" width="25"> **Freelancing**:
+  - Graphics Designer
+  - Remote, India
+  - August, 2017 – November, 2020
+
 
 ## Things I like to do in my free time <img src="assets/images/T-Rex.png" width="30">
 
