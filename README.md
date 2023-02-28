@@ -22,7 +22,7 @@
 
 <p align="left">I'm a curious programmer, and a developer from India who's trying to get a bit better every day. I'm very curious about new technologies. Though I'm in my early software engineering career, I consider myself a self-taught programmer, constantly learning and always looking for improving my skills.</p>
 
-<p>I enjoy creating websites, applications, or anything in between. I've 3 years of experience in IT industry and completed some projects in recent years.</p>
+<p>I enjoy creating websites, applications, or anything in between and passionate about designing and developing web applications that are not only aesthetically pleasing but also highly functional and user-friendly. As a developer, I am committed to producing high-quality, efficient, and scalable code, and I always strive to exceed expectations.</p>
 
 
 
@@ -31,19 +31,17 @@
 
 ## Connect with me <img src="assets/images/Folded Hands Light Skin Tone.png" width="30">
 
-<img width="160" align="right" src="https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/profileThumb.png" />
+<img width="160" align="left" src="https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/profileThumb.png" />
 
 - 📫 Reach me out at **himanshu.2922t@gmail.com**
-- 🌐 Check out my portfolio at <a href="">website link</a>
+- 🌐 Check out my portfolio at <a href="" target="_blank">website link</a>
+- 🧑🏻‍💻 Open to work for SDE and Fullstack Developer Roles. Download my <a download href="">Resume</a>
 
 <p align="left">
     <a href="https://codepen.io/rathore-himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rathore-himanshu" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/rathore--himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rathore--himanshu" height="30" width="40" /></a>
     <a href="https://twitter.com/_tashurathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_tashurathore" height="30" width="40" /></a>
     <a href="https://instagram.com/developer_himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer_himanshu" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/himanshu2922t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="himanshu2922t" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/rathore-himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rathore-himanshu" height="30" width="40" /></a>
-    <a href="https://codedamn.com/user/himanshu2922t" target="blank"><img align="center" src="assets/images/codedamn logo.png" alt="himanshu2922t" width="40" /></a>
 </p>
 
 
