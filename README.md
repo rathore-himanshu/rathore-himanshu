@@ -28,12 +28,12 @@
 
 <img width="170" align="left" src="https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/profileThumb.png" />
 
-<pre>- 📫 Reach me out at <a href="mailto:himanshu.2922t@gmail.com" target="_blank">himanshu.2922t@gmail.com</a>
+- 📫 Reach me out at <a href="mailto:himanshu.2922t@gmail.com" target="_blank">himanshu.2922t@gmail.com</a>
 - 🌐 Check out my portfolio at <a href="" target="_blank">website link</a>
 - 🧑🏻‍💻 Open to work for SDE and Fullstack Developer Roles. Download my <a href="" target="blank">Resume</a>
 
-I can work as a freelancer too! 🙂 
-To hire me, drop a mail or connect via any media platforms mentioned below.</pre>
+<p>I can work as a freelancer too! 🙂 
+    To hire me, drop a mail or connect via any media platforms mentioned below.</p>
 
 <div align="left" >
      <a href="https://codepen.io/rathore-himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="rathore-himanshu" height="30" width="40" /></a>
