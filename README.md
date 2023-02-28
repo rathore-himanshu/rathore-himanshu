@@ -155,8 +155,8 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
 
 ## Loved my work? <img src="assets/images/Heart on Fire.png" width="30">
 
-<img src="assets/images/Star.png" width="25"/>&nbsp;[Give a star to this project](https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik) <br/>
-<img src="assets/images/Folded Hands Light Skin Tone.png" width="25"/>&nbsp;[Follow me on GitHub](https://github.com/Tarikul-Islam-Anik)<br/>
+<img src="assets/images/Star.png" width="25"/>&nbsp;[Give a star to this project](https://github.com/rathore-himanshu/rathore-himanshu) <br/>
+<img src="assets/images/Folded Hands Light Skin Tone.png" width="25"/>&nbsp;[Follow me on GitHub](https://github.com/rathore-himanshu)<br/>
 <img src="assets/images/Globe with Meridians.png" width="25"/>&nbsp;[Checkout my portfolio](https://oxyzen.vercel.app/)<br/>
 <img src="assets/images/Writing Hand Light Skin Tone.png" width="25"/>&nbsp;[Read my blogs](https://oxyzen.vercel.app/blog)<br/>
 <img src="assets/images/Hot Beverage.png" width="25"> [Buy me a coffee](https://ko-fi.com/oxyzen) (Tired of drinking Tea)
