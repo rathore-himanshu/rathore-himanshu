@@ -31,7 +31,11 @@
 
 ## Connect with me <img src="assets/images/Folded Hands Light Skin Tone.png" width="30">
 
+<img width="160" align="right" src="https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/profileThumb.png" />
+
 - 📫 Reach me out at **himanshu.2922t@gmail.com**
+- 🌐 Check out my portfolio at <a href="">website link</a>
+
 <p align="left">
     <a href="https://codepen.io/rathore-himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rathore-himanshu" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/rathore--himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rathore--himanshu" height="30" width="40" /></a>
@@ -157,6 +161,6 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
 <img src="assets/images/Folded Hands Light Skin Tone.png" width="25"/>&nbsp;[Follow me on GitHub](https://github.com/rathore-himanshu)<br/>
 <img src="assets/images/Globe with Meridians.png" width="25"/>&nbsp;[Checkout my portfolio](https://oxyzen.vercel.app/)<br/>
 <img src="assets/images/Writing Hand Light Skin Tone.png" width="25"/>&nbsp;[Read my blogs](https://oxyzen.vercel.app/blog)<br/>
-<img src="assets/images/Hot Beverage.png" width="25"> [Buy me a coffee](https://ko-fi.com/oxyzen) (Tired of drinking Tea)
+<img src="assets/images/Hot Beverage.png" width="25"> [Buy me a coffee](https://www.buymeacoffee.com/himanshurathore) (Tired of drinking Tea)
 
 ### Thanks for visiting!&nbsp;<img src="assets/images/Partying Face.png" width="25">
