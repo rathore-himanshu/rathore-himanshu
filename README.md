@@ -1,7 +1,29 @@
-<h1 align="center">Hi There 👋, I'm Himanshu Rathore</h1>
-<h3 align="center">A Developer from India</h3>
+<p align="center">
+    <img width="200" src="https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/BCE9171C-348F-4417-883A-92DB96E82592.jpeg">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rathore-himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="rathore-himanshu" /> </p>
+<h2> 
+</h2>
+
+
+<h2 align="center">Hi There 
+  <img src = "https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/wave.gif" width = 30px> 
+  Himanshu Rathore here
+</h2>
+<img align="right" src="https://komarev.com/ghpvc/?username=rathore-himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="rathore-himanshu" />
+
+![age](https://img.shields.io/badge/age-25-FFC6C2)
+![focus](https://img.shields.io/badge/focus-fullstack-FAE9DA)
+![living](https://img.shields.io/badge/living-India-C3E0DD)
+
+  
+  
+
+
+<p align="left">I'm a curious programmer, and a developer from India who's trying to get a bit better every day. I'm very curious about new technologies. Though I'm in my early software engineering career, I consider myself a self-taught programmer, constantly learning and always looking for improving my skills.</p>
+
+<p>I enjoy creating websites, applications, or anything in between. I've 3 years of experience in IT industry and completed some projects in recent years.</p>
+
 
 - 🌱 I’m currently into **Full Stack Development**
 
