@@ -32,7 +32,7 @@
 - 🌐 Check out my portfolio at <a href="" target="_blank">website link</a>
 - 🧑🏻‍💻 Open to work for SDE and Fullstack Developer Roles. Download my <a href="" target="blank">Resume</a>
 
-<p>I can work as a freelancer too! 🙂 
+<p>I'm available to work as a freelancer too! 🙂 
     To hire me, drop a mail or connect via any media platforms mentioned below.</p>
 
 <div align="left" >
