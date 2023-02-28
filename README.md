@@ -79,9 +79,9 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
 
 ## Work & Education <img src="assets/images/Comet.png" width="30">
 
-<table>
+<table align="center">
     <tr>
-        <td><img src ="assets/images/Man Technologist Light Skin Tone.png" width="60" ></td>
+        <td><img src ="assets/images/Man Technologist Light Skin Tone.png" width="70" ></td>
         <td>
             <h4>Codedamn.com</h4>
             <pre>- Fullstack Developer 
@@ -102,8 +102,20 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
         </td>
     </tr>
 </table>
-
-<table>
+<table align="center">
+    <tr>
+        <td>
+            <img src="assets/images/School.png" width="60">
+        </td>
+        <td>
+            <h4>Rajasthan Technical University</h4>
+            <pre>- B.Tech in Computer Science and Engineering
+- Jaipur, India
+- June, 2017 - July 2021
+- CGPA : 8.4 / 10</pre>
+        </td>
+</table>
+<table align="center">
     <tr>
         <td>
             <img src="assets/images/Bar Chart.png" width="60">
@@ -124,20 +136,6 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
 - August, 2017 – November, 2020</pre>
         </td>
     </tr>
-</table>
-
-<table>
-    <tr>
-        <td>
-            <img src="assets/images/School.png" width="60">
-        </td>
-        <td>
-            <h4>Rajasthan Technical University</h4>
-            <pre>- B.Tech in Computer Science and Engineering
-- Jaipur, India
-- June, 2017 - July 2021
-- CGPA : 8.4 / 10</pre>
-        </td>
 </table>
 
 
