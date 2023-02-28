@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/profile say cheese.png">
+    <img width="1920" src="https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/TitleImage.png">
 </p>
 
 
