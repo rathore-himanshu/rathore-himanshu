@@ -36,13 +36,14 @@
 - 📫 Reach me out at **himanshu.2922t@gmail.com**
 - 🌐 Check out my portfolio at <a href="" target="_blank">website link</a>
 - 🧑🏻‍💻 Open to work for SDE and Fullstack Developer Roles. Download my <a download href="">Resume</a>
-
-<p align="left">
-    <a href="https://codepen.io/rathore-himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rathore-himanshu" height="30" width="40" /></a>
+<br>
+<div align="left" >
     <a href="https://linkedin.com/in/rathore--himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rathore--himanshu" height="30" width="40" /></a>
+    <a href="https://codepen.io/rathore-himanshu" target="blank"><img align="center" src="assets/icons/codepen.png" alt="rathore-himanshu" height="30" width="30" /></a>
     <a href="https://twitter.com/_tashurathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_tashurathore" height="30" width="40" /></a>
     <a href="https://instagram.com/developer_himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer_himanshu" height="30" width="40" /></a>
-</p>
+</div>
+
 
 
 
