@@ -78,7 +78,7 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
 
 ## Work & Education <img src="assets/images/Comet.png" width="30">
 
-<table align="center">
+<table>
     <tr>
         <td><img src ="assets/images/Man Technologist Light Skin Tone.png" width="80" ></td>
         <td>
@@ -102,21 +102,7 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
     </tr>
 </table>
 
-<table align="center">
-    <tr>
-        <td>
-            <img src="assets/images/School.png" width="80">
-        </td>
-        <td>
-            <h4>Rajasthan Technical University</h4>
-            <pre>- B.Tech in Computer Science and Engineering
-- Jaipur, India
-- June, 2017 - July 2021
-- CGPA : 8.4 / 10</pre>
-        </td>
-</table>
-
-<table align="center">
+<table>
     <tr>
         <td>
             <img src="assets/images/Bar Chart.png" width="80">
@@ -138,19 +124,32 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
         </td>
     </tr>
 </table>
-  
+
+<table>
+    <tr>
+        <td>
+            <img src="assets/images/School.png" width="80">
+        </td>
+        <td>
+            <h4>Rajasthan Technical University</h4>
+            <pre>- B.Tech in Computer Science and Engineering
+- Jaipur, India
+- June, 2017 - July 2021
+- CGPA : 8.4 / 10</pre>
+        </td>
+</table>
+
 
   
-- <img src="assets/images/Bar Chart.png" width="25"> **Forsk Technologies**:
-  - Data Science Intern 
-  - Jaipur, India
-  - August 15, 2021 – May 22, 2022
-- <img src="assets/images/Writing Hand Light Skin Tone.png" width="25"> **Freelancing**:
-  - Graphics Designer
-  - Remote, India
-  - August, 2017 – November, 2020
 
 
 ## Things I like to do in my free time <img src="assets/images/T-Rex.png" width="30">
+<pre>Outside work, I love to
+- 🧑🏻‍💻 solve DSA problems
+- 🙏🏻 meditate and pray
+- 📖 read books
+- 🖌️ do painting and skecthing
+- 🎵 listen to spiritual podcasts/songs
+- 🌴 explore nature outdoors</pre>
 
 
