@@ -2,14 +2,16 @@
     <img width="200" src="https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/15FFA008-1E64-4999-8C38-78610210535E.jpeg">
 </p>
 
-<h2> 
-</h2>
 
 
-<h2 align="center">Hi There 
-  <img src = "https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/wave.gif" width = 30px> 
-  Himanshu Rathore here
-</h2>
+<h2></h2>
+<h1 align="center" border="1px solid black"> 
+    < Hi There 
+    <img src = "https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/wave.gif" width = 30px>
+    Himanshu Rathore here />
+</h1>
+<br/>
+
 <img align="right" src="https://komarev.com/ghpvc/?username=rathore-himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="rathore-himanshu" />
 
 ![age](https://img.shields.io/badge/age-25-FFC6C2)
@@ -47,7 +49,7 @@
 
 ## Skills <img src="assets/images/Rocket.png" width="30">
 
-These are some of the major technologies that I use or have worked on in the past:
+In recent years, I've been working on new technologies and languages. These are the ones I've learned so far:
 
 **Frontend Skills**
 
