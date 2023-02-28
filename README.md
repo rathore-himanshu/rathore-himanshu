@@ -5,11 +5,10 @@
 
 
 <h2 align="center"> 
-    < Hi There 
+    < Hi there
     <img src = "https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/wave.gif" width = 30px>
-    Himanshu Rathore here />
+    I'm Himanshu Rathore />
 </h2>
-
 
 <img align="right" src="https://komarev.com/ghpvc/?username=rathore-himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="rathore-himanshu" />
 
@@ -17,34 +16,37 @@
 ![focus](https://img.shields.io/badge/focus-fullstack-FAE9DA)
 ![living](https://img.shields.io/badge/living-India-C3E0DD)
 
-  
 
+<p align="left">I'm a curious programmer, and a software developer from India who's trying to get a bit better every day. I'm very curious about new technologies. Though I'm in my early software engineering career, I consider myself a self-taught programmer, constantly learning and always looking for improving my skills.</p>
 
-<p align="left">I'm a curious programmer, and a developer from India who's trying to get a bit better every day. I'm very curious about new technologies. Though I'm in my early software engineering career, I consider myself a self-taught programmer, constantly learning and always looking for improving my skills.</p>
-
-<p>I enjoy creating websites, applications, or anything in between and passionate about designing and developing web applications that are not only aesthetically pleasing but also highly functional and user-friendly. As a developer, I am committed to producing high-quality, efficient, and scalable code, and I always strive to exceed expectations.</p>
-
-
+<p>I enjoy creating websites, applications, or anything in between. My passion is about designing and developing web applications that are not only aesthetically pleasing but also highly functional and user-friendly. As a developer, I am committed to producing high-quality, efficient, and scalable code, and I always strive to exceed expectations.</p>
 
 
 
 
 ## Connect with me <img src="assets/images/Folded Hands Light Skin Tone.png" width="30">
 
-<img width="160" align="left" src="https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/profileThumb.png" />
+<img width="170" align="left" src="https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/profileThumb.png" />
 
-- 📫 Reach me out at **himanshu.2922t@gmail.com**
+<pre>- 📫 Reach me out at <a href="mailto:himanshu.2922t@gmail.com" target="_blank">himanshu.2922t@gmail.com</a>
 - 🌐 Check out my portfolio at <a href="" target="_blank">website link</a>
-- 🧑🏻‍💻 Open to work for SDE and Fullstack Developer Roles. Download my <a download href="">Resume</a>
-<br>
+- 🧑🏻‍💻 Open to work for SDE and Fullstack Developer Roles. Download my <a href="" target="blank">Resume</a>
+
+I can work as a freelancer too! 🙂 
+To hire me, drop a mail or connect via any media platforms mentioned below.</pre>
+
 <div align="left" >
-    <a href="https://linkedin.com/in/rathore--himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rathore--himanshu" height="30" width="40" /></a>
-    <a href="https://codepen.io/rathore-himanshu" target="blank"><img align="center" src="assets/icons/codepen.png" alt="rathore-himanshu" height="30" width="30" /></a>
-    <a href="https://twitter.com/_tashurathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_tashurathore" height="30" width="40" /></a>
-    <a href="https://instagram.com/developer_himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer_himanshu" height="30" width="40" /></a>
+     <a href="https://codepen.io/rathore-himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="rathore-himanshu" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/rathore--himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rathore--himanshu" height="30" width="40"/></a>
+    <a href="https://www.reddit.com/user/rathore-himanshu" target="blank"><img align="center" src="assets/icons/reddit.svg" alt="rathore-himanshu" height="32" width="38"/></a>
+    <a href="https://twitter.com/_tashurathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_tashurathore" height="30" width="40"/></a>
+    <a href="https://instagram.com/developer_himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer_himanshu" height="30" width="40"/></a>
+    <a href="https://dev.to/rathorehimanshu" target="blank"><img align="center" src="assets/icons/dev-badge.svg" alt="rathorehimanshu" height="36" width="42"/></a>
+    <a href="https://www.frontendmentor.io/profile/rathore-himanshu" target="blank"><img align="center" src="https://asset.brandfetch.io/id-7PJzcYu/idg6NpX9vF.svg" alt="rathore-himanshu" height="28"/></a>
+    
 </div>
 
-
+<br/>
 
 
 
@@ -77,7 +79,7 @@ C|C++|Javascript|Python|Java|Scala
 npm|git|linux|VS Code|Vim|figma|illustrator|
 
 
-
+<br/>
 
 
 ## Work & Education <img src="assets/images/Comet.png" width="30">
