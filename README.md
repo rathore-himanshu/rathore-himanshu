@@ -29,7 +29,7 @@
 <img width="170" align="left" src="https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/profileThumb.png" />
 
 - 📫 Reach me out at <a href="mailto:himanshu.2922t@gmail.com" target="_blank">himanshu.2922t@gmail.com</a>
-- 🌐 Check out my portfolio at <a href="" target="_blank">website link</a>
+- 🌐 Check out my portfolio at <a href="https://rathore-himanshu.github.io/" target="_blank">rathore-himanshu.github.io</a>
 - 🧑🏻‍💻 Open to work for SDE and Fullstack Developer Roles. Download my <a href="" target="blank">Resume</a>
 
 <p>I'm available to work as a freelancer too! 🙂 
