@@ -81,7 +81,7 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
 
 <table>
     <tr>
-        <td><img src ="assets/images/Man Technologist Light Skin Tone.png" width="80" ></td>
+        <td><img src ="assets/images/Man Technologist Light Skin Tone.png" width="60" ></td>
         <td>
             <h4>Codedamn.com</h4>
             <pre>- Fullstack Developer Trainee 
@@ -106,7 +106,7 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
 <table>
     <tr>
         <td>
-            <img src="assets/images/Bar Chart.png" width="80">
+            <img src="assets/images/Bar Chart.png" width="60">
         </td>
         <td>
             <h4>Forsk Technologies</h4>
@@ -115,7 +115,7 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
 - August 15, 2021 – May 22, 2022</pre>
         </td>
         <td>
-            <img src="assets/images/Writing Hand Light Skin Tone.png" width="80">
+            <img src="assets/images/Writing Hand Light Skin Tone.png" width="60">
         </td>
         <td>
             <h4>Freelancing</h4>
