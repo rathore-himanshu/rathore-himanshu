@@ -65,30 +65,30 @@
 
 These are some of the major technologies that I use or have worked on in the past:
 
-**Frontend**
+**Frontend Skills**
 
 <img title="HTML5" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />|<img title="CSS3" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />|<img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />|<img title="Material UI" alt="Material UI" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" />|<img title="React JS" alt="React JS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />|<img title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
 |--|--|--|--|--|--|--|
 HTML5|CSS3|Tailwind|Material UI|ReactJS|Redux|NextJS|
 
-**Backend**
+**Backend Skills**
 <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />|<img width="40px" src="https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/jwt_logo.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"/>
 |--|--|--|--|--|--|--|
 NodesJS|ExpressJS|MongoDB|MySQL|GraphQL|JWT|Reddis|
 
 
-**Programming Languages**
+**Programming Languages I code**
 
 <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />|<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />|<img title="Scala" alt="Scala" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" />
 |--|--|--|--|--|--|
 C|C++|Javascript|Python|Java|Scala
 
-**Tools**
-<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" />
-|--|--|--|--|--|
-npm|git|linux|figma|illustrator|
+**Dev & Design Tools I use**
+<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" />
+|--|--|--|--|--|--|--|
+npm|git|linux|VS Code|Vim|figma|illustrator|
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg
+
 
 
 **Data Science**
