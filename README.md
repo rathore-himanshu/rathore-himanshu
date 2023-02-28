@@ -1,16 +1,15 @@
 <p align="center">
-    <img width="200" src="https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/15FFA008-1E64-4999-8C38-78610210535E.jpeg">
+    <img width="200" src="https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/profile say cheese.png">
 </p>
 
 
 
-<h2></h2>
-<h1 align="center" border="1px solid black"> 
+<h2 align="center"> 
     < Hi There 
     <img src = "https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/wave.gif" width = 30px>
     Himanshu Rathore here />
-</h1>
-<br/>
+</h2>
+
 
 <img align="right" src="https://komarev.com/ghpvc/?username=rathore-himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="rathore-himanshu" />
 
@@ -155,3 +154,4 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
 - 🌴 explore nature outdoors</pre>
 
 
+### Thanks for visiting!&nbsp;<img src="assets/images/Partying Face.png" width="25">
