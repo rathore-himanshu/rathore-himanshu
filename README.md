@@ -71,7 +71,14 @@ NodesJS|ExpressJS|MongoDB|MySQL|GraphQL|JWT|Reddis|
 
 <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />|<img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />|<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />|<img title="Scala" alt="Scala" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" />
 |--|--|--|--|--|--|
-C|C++|Javascript|Python|Java|Scala
+C|C++|Javascript|Python|Java|Scala|
+
+
+**Data & ML**
+
+<img width="40px" src="assets/icons/ApacheSpark.svg" />|<img width="40px" src="assets/icons/pandas.svg" />|<img width="40px" src="assets/icons/numpy.svg" />|<img width="40px" src="assets/icons/Scikit-learn.svg" />|<img width="40px" src="assets/icons/Keras.svg" />|<img width="40px" src="assets/icons/Matplotlib.svg" />
+|--|--|--|--|--|--|
+Apache Spark|Pandas|Numpy|Scikit-learn|Keras|Matplotlib|
 
 **Dev & Design Tools I use**
 <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" />
