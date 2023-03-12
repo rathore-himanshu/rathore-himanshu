@@ -64,7 +64,7 @@ HTML5|CSS3|Tailwind|Material UI|ReactJS|Redux|NextJS|
 **Backend Skills**
 <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />|<img width="40px" src="https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/jwt_logo.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"/>
 |--|--|--|--|--|--|--|
-NodesJS|ExpressJS|MongoDB|MySQL|GraphQL|JWT|Reddis|
+NodesJS|ExpressJS|MongoDB|MySQL|GraphQL|JWT|Redis|
 
 
 **Programming Languages I code**
