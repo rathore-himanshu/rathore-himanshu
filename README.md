@@ -95,10 +95,10 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
     <tr>
         <td><img src ="assets/images/Man Technologist Light Skin Tone.png" width="70" ></td>
         <td>
-            <h4>Codedamn.com</h4>
+            <h4>Shallowfeet Consulting</h4>
             <pre>- Fullstack Developer 
-- Remote, India 
-- November 2022 - (Present)</pre>
+- Jaipur, India 
+- April 2023 - (Present)</pre>
         </td>
         <td>
             <h4>Tata Consultancy Services</h4>
