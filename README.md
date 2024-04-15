@@ -12,7 +12,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=rathore-himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="rathore-himanshu" />
 
-![age](https://img.shields.io/badge/age-25-FFC6C2)
+![age](https://img.shields.io/badge/age-26-FFC6C2)
 ![focus](https://img.shields.io/badge/focus-fullstack-FAE9DA)
 ![living](https://img.shields.io/badge/living-India-C3E0DD)
 
