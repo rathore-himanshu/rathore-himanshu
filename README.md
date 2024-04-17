@@ -98,19 +98,19 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
             <h4>Shallowfeet Consulting</h4>
             <pre>- Fullstack Developer 
 - Jaipur, India 
-- April 2023 - (Present)</pre>
+- November 2022 - (Present)</pre>
         </td>
         <td>
             <h4>Tata Consultancy Services</h4>
             <pre>- Software Engineer
 - Bangalore, India
-- July, 2021 - November 2022</pre>
+- July 2021 - November 2022</pre>
         </td>
         <td>
             <h4>Divam Tech</h4>
             <pre>- Frontend Developer 
 - Bangalore, India
-- May, 2021 - June 2021</pre>
+- May 2021 - June 2021</pre>
         </td>
     </tr>
 </table>
@@ -123,8 +123,8 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
             <h4>Rajasthan Technical University</h4>
             <pre>- B.Tech in Computer Science and Engineering
 - Jaipur, India
-- June, 2017 - July 2021
-- CGPA : 8.4 / 10</pre>
+- June 2017 - July 2021
+- CGPA: 8.4 / 10</pre>
         </td>
 </table>
 <table align="center">
