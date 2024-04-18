@@ -1,10 +1,11 @@
-<p align="center"> 
-     <img width="200" src="assets/images/titleMemoji.png"> 
-</p> 
+<!-- <p align="center"> 
+    <img width="200" src="assets/images/titleMemoji.png"> 
+ </p> -->
 
 
 
-<h2 align="center"> 
+<!-- <h2 align="center"> -->
+<h2>
     < Hi there
     <img src = "https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/wave.gif" width = 30px>
     I'm Himanshu Rathore />
