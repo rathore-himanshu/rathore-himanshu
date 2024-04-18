@@ -1,6 +1,6 @@
-<p align="center">
-    <img width="200" src="assets/images/titleMemoji.png">
-</p>
+<!-- <p align="center"> -->
+<!--     <img width="200" src="assets/images/titleMemoji.png"> -->
+<!-- </p> -->
 
 
 
