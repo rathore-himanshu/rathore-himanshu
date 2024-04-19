@@ -36,7 +36,7 @@
     To hire me, drop a mail or connect via any media platforms mentioned below.</p>
 
 <div align="left" >
-     <a href="https://codepen.io/rathore-himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="rathore-himanshu" height="30" width="40" /></a>
+     <a href="https://codepen.io/rathore-himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original.svg" alt="rathore-himanshu" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/rathore--himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rathore--himanshu" height="30" width="40"/></a>
     <a href="https://www.reddit.com/user/rathore-himanshu" target="blank"><img align="center" src="assets/icons/reddit.svg" alt="rathore-himanshu" height="32" width="38"/></a>
     <a href="https://twitter.com/_tashurathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_tashurathore" height="30" width="40"/></a>
@@ -57,15 +57,19 @@ In recent years, I've been working on new technologies and languages. These are 
 
 **Frontend Skills**
 
-<img title="HTML5" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />|<img title="CSS3" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />|<img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />|<img title="Material UI" alt="Material UI" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" />|<img title="React JS" alt="React JS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />|<img title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+<img title="HTML5" alt="HTML" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />|<img title="CSS3" alt="CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />|<img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" />|<img title="Material UI" alt="Material UI" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" />|<img title="React JS" alt="React JS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />|<img title="Redux" alt="Redux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
 |--|--|--|--|--|--|--|
 HTML5|CSS3|Tailwind|Material UI|ReactJS|Redux|NextJS|
 
 **Backend Skills**
-<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />|<img width="40px" src="https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/jwt_logo.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"/>
-|--|--|--|--|--|--|--|
-NodesJS|ExpressJS|MongoDB|MySQL|GraphQL|JWT|Redis|
+<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />|<img width="40px" src="https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/jwt_logo.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"/>
+|--|--|--|--|--|--|--|--|
+NodesJS|ExpressJS|AdonisJS|MongoDB|MySQL|GraphQL|JWT|Redis|
 
+**DevOps Skills**
+<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" />|<img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" />|<img width="60px" src="https://github.com/rathore-himanshu/raw-images/blob/main/DevIcons/ELK/ELK.png"/>
+|--|--|--|--|--|--|--|
+AWS|Nginx|Docker|Kubernetes|Kafka|Github Actions|ELK Stack|
 
 **Programming Languages I code**
 
