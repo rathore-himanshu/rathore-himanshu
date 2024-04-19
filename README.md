@@ -3,13 +3,12 @@
  </p> -->
 
 
-
-<!-- <h2 align="center"> -->
-<h2>
+<h2 align="center"> 
     < Hi there
     <img src = "https://raw.githubusercontent.com/rathore-himanshu/portfolio/main/images/wave.gif" width = 30px>
     I'm Himanshu Rathore />
 </h2>
+<h2> </h2>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=rathore-himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="rathore-himanshu" />
 
