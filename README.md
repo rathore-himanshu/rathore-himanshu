@@ -12,14 +12,14 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=rathore-himanshu&label=Profile%20views&color=0e75b6&style=flat" alt="rathore-himanshu" />
 
-![age](https://img.shields.io/badge/age-26-FFC6C2)
+![age](https://img.shields.io/badge/age-27-FFC6C2)
 ![focus](https://img.shields.io/badge/focus-fullstack-FAE9DA)
 ![living](https://img.shields.io/badge/living-India-C3E0DD)
 
 
-<p align="left">I'm a curious programmer, and a software developer from India who's trying to get a bit better every day. I'm very curious about new technologies. Though I'm in my early software engineering career, I consider myself a self-taught programmer, constantly learning and always looking for improving my skills.</p>
+<p align="left">I'm a curious programmer and a software developer from India who's trying to get a bit better every day. I'm inquisitive about new technologies. Though I'm in my early software engineering career, I consider myself a self-taught programmer, constantly learning and always looking to improve my skills.</p>
 
-<p>I enjoy creating websites, applications, or anything in between. My passion is about designing and developing web applications that are not only aesthetically pleasing but also highly functional and user-friendly. As a developer, I am committed to producing high-quality, efficient, and scalable code, and I always strive to exceed expectations.</p>
+<p>I enjoy creating websites, applications, or anything in between. My passion is designing and developing web applications that are aesthetically pleasing, highly functional, and user-friendly. As a developer, I am committed to producing high-quality, efficient, and scalable code, and I always strive to exceed expectations.</p>
 
 
 
@@ -33,7 +33,7 @@
 - 🧑🏻‍💻 Open to work for SDE and Fullstack Developer Roles. Download my <a href="" target="blank">Resume</a>
 
 <p>I'm available to work as a freelancer too! 🙂 
-    To hire me, drop a mail or connect via any media platforms mentioned below.</p>
+    To hire me, drop me a mail or connect via any media platforms mentioned below.</p>
 
 <div align="left" >
      <a href="https://codepen.io/rathore-himanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-original.svg" alt="rathore-himanshu" height="30" width="40" /></a>
@@ -163,7 +163,7 @@ npm|git|linux|VS Code|Vim|figma|illustrator|
 - 🧑🏻‍💻 solve DSA problems
 - 🙏🏻 meditate and pray
 - 📖 read books
-- 🖌️ do painting and skecthing
+- 🖌️ do painting and sketching
 - 🎵 listen to spiritual podcasts/songs
 - 🌴 explore nature outdoors</pre>
 
